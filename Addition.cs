@@ -6,4 +6,5 @@ public static void main()
 	int c=a+b;
 
 	//anurag
+	//ignore 2
 }
